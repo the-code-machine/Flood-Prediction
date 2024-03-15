@@ -1,6 +1,6 @@
 # Flood Level Prediction using LSTM
 
-🚀 Excited to share my latest project on LinkedIn! 🌟
+🚀 Excited to share my latest project on Github! 🌟
 
 ## Project Overview
 
