@@ -33,6 +33,6 @@ By harnessing the power of deep learning, we can provide timely and accurate pre
 
 ## Google Colab
 
-[Check out the LinkedIn post here!](https://colab.research.google.com/drive/1tvLoPnxfqT7G8jpTHBUycg5zFZnneSVC?usp=sharing)
+[Check out the Colab Book here!](https://colab.research.google.com/drive/1tvLoPnxfqT7G8jpTHBUycg5zFZnneSVC?usp=sharing)
 
 #AI #DeepLearning #DataScience #FloodPrediction #LSTM #ArtificialIntelligence #MachineLearning #Innovation #TechForGood
